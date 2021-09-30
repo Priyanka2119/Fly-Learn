@@ -46,13 +46,13 @@
     
      {
         "id": 5,
-        "courseTopic": "python",
-        "courseTitle": "Python Tutorial - Python for Beginners [Full Course]",
-        "providedBy": "Programming with Mosh ",
+        "courseTopic": "",
+        "courseTitle": "C Tutorial - C for Beginners [Full Course]",
+        "providedBy": "FreeCodeCamp.org",
         "platform":"Youtube",
-        "duration": "6hr",
+        "duration": "4hr",
         "domains": ["", "", ""],
-        "link": "https://www.youtube.com/watch?v=_uQrJ0TkZlc"
+        "link": "https://youtu.be/KJgsSFOSQv0"
     },
     {
         "id": 6,
